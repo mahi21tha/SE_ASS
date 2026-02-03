@@ -1,3 +1,6 @@
+
+#THIS IS FOR SE LAB ASS
+
 #  find the maximum profit obtainable by cutting a rod
 def rod_cutting(price, N):
     # dp[i] will store the maximum profit for a rod of length i
