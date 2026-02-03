@@ -1,5 +1,6 @@
+#this this for SE lab assignment 
+#lab2 on git and git hub
 
-#THIS IS FOR SE LAB ASS
 
 #  find the maximum profit obtainable by cutting a rod
 def rod_cutting(price, N):
